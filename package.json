@@ -1,0 +1,12 @@
+{
+    "name": "Remote-Coupled-Tank-System",
+    "description": "Development of the Remote Access Architecture for the Two Tank System",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
